@@ -8,7 +8,7 @@ My name is Michael Pszonka and I am a Software Developer living in Northern New 
 
 ### More Information
 
-Interested in all things technogy and economics.
+Interested in all things technogy, economics, philosophy and pop culture....also crypto
 
 ### Contact me
 
