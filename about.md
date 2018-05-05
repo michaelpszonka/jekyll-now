@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Michael Pszonka and I am a Software Developer living in Northern New Jersey
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Interested in all things technogy and economics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mjp529@gmail.com](mailto:email@domain.com)
